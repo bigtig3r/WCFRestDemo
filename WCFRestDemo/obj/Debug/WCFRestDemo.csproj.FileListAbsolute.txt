@@ -1,0 +1,6 @@
+c:\users\trand\documents\visual studio 2013\Projects\WCFRestDemo\WCFRestDemo\bin\WCFRestDemo.dll.config
+c:\users\trand\documents\visual studio 2013\Projects\WCFRestDemo\WCFRestDemo\bin\WCFRestDemo.dll
+c:\users\trand\documents\visual studio 2013\Projects\WCFRestDemo\WCFRestDemo\bin\WCFRestDemo.pdb
+c:\users\trand\documents\visual studio 2013\Projects\WCFRestDemo\WCFRestDemo\obj\Debug\WCFRestDemo.csprojResolveAssemblyReference.cache
+c:\users\trand\documents\visual studio 2013\Projects\WCFRestDemo\WCFRestDemo\obj\Debug\WCFRestDemo.dll
+c:\users\trand\documents\visual studio 2013\Projects\WCFRestDemo\WCFRestDemo\obj\Debug\WCFRestDemo.pdb
